@@ -1,2 +1,4 @@
 # NoProxy-App
-A QR code based attendance management app called NoProxy
+A QR code based Attendance Management App called NoProxy
+<br>
+Author - SANSKAR RAJ 
